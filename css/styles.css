@@ -13,11 +13,14 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-
+@import url('https://fonts.googleapis.com/css?family=Oswald');
 html, body {
   font-family: 'Roboto', 'Helvetica', sans-serif;
   margin: 0;
   padding: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+font-family: 'Oswald', sans-serif;
 }
 .mdl-demo .mdl-layout__header-row {
   padding-left: 40px;
